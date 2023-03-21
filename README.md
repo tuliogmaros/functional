@@ -1,21 +1,8 @@
 # Functional
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `functional` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:functional, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/functional>.
+<h3> The objective of this project is to learn basic concepts of functions using the functional programming paradigm, as well as the definition of some modules and several ways to define them.
+  
+ ## Credits
+ 
+ Credits to [Rafael Camarda](https://github.com/RafaelCamarda) and his [tutorial](https://www.youtube.com/watch?v=53Lv3efp7Rk&ab_channel=Rocketseat) on youtube.
 
